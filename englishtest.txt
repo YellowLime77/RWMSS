@@ -1,0 +1,271 @@
+Tempo=100
+[#0001]
+StartPos=2880
+Length=150
+Lyric=k eh
+Note=52
+[#0002]
+StartPos=3030
+Length=60
+Lyric=eh n
+Note=52
+[#0003]
+StartPos=3090
+Length=30
+Lyric=n y
+Note=52
+[#0004]
+StartPos=3120
+Length=60
+Lyric=y uh
+Note=54
+[#0005]
+StartPos=3180
+Length=60
+Lyric=ih s
+Note=54
+[#0006]
+StartPos=3240
+Length=180
+Lyric=s iy
+Note=52
+[#0007]
+StartPos=3420
+Length=60
+Lyric=iy m
+Note=52
+[#0008]
+StartPos=3480
+Length=99
+Lyric=m iy
+Note=54
+[#0009]
+StartPos=3579
+Length=22
+Lyric=iy n
+Note=54
+[#0010]
+StartPos=3601
+Length=180
+Lyric=n aw1
+Note=52
+[#0011]
+StartPos=3781
+Length=60
+Lyric=ah dh
+Note=52
+[#0012]
+StartPos=3841
+Length=116
+Lyric=dh ih
+Note=52
+[#0013]
+StartPos=3957
+Length=123
+Lyric=ih s1
+Note=52
+[#0014]
+StartPos=4080
+Length=120
+Lyric=s ao1
+Note=50
+[#0015]
+StartPos=4200
+Length=30
+Lyric=ao l
+Note=50
+[#0016]
+StartPos=4230
+Length=60
+Lyric=l p
+Note=50
+[#0017]
+StartPos=4290
+Length=30
+Lyric=p l
+Note=50
+[#0018]
+StartPos=4320
+Length=159
+Lyric=l ey
+Note=52
+[#0019]
+StartPos=4479
+Length=80
+Lyric=ey s
+Note=52
+[#0020]
+StartPos=4559
+Length=48
+Lyric=s ih
+Note=54
+[#0021]
+StartPos=4607
+Length=71
+Lyric=ih z
+Note=54
+[#0022]
+StartPos=4678
+Length=123
+Lyric=jh ah
+Note=52
+[#0023]
+StartPos=4801
+Length=63
+Lyric=ah s
+Note=52
+[#0024]
+StartPos=4864
+Length=52
+Lyric=s t
+Note=52
+[#0025]
+StartPos=4916
+Length=60
+Lyric=t ah
+Note=54
+[#0026]
+StartPos=4998
+Length=37
+Lyric=ah g
+Note=54
+[#0027]
+StartPos=5035
+Length=131
+Lyric=g ow
+Note=52
+[#0028]
+StartPos=5166
+Length=43
+Lyric=ow s
+Note=52
+[#0029]
+StartPos=5209
+Length=73
+Lyric=s t
+Note=52
+[#0030]
+StartPos=5282
+Length=216
+Lyric=t aw
+Note=57
+[#0031]
+StartPos=5498
+Length=22
+Lyric=eh n1
+Note=57
+[#0032]
+StartPos=5520
+Length=99
+Lyric=n eh
+Note=54
+[#0033]
+StartPos=5619
+Length=140
+Lyric=eh n
+Note=54
+[#0034]
+StartPos=5759
+Length=174
+Lyric=d ay
+Note=52
+[#0035]
+StartPos=5933
+Length=65
+Lyric=ay k
+Note=52
+[#0036]
+StartPos=5998
+Length=47
+Lyric=k ey
+Note=54
+[#0037]
+StartPos=6045
+Length=28
+Lyric=ae n
+Note=54
+[#0038]
+StartPos=6073
+Length=45
+Lyric=s t
+Note=54
+[#0039]
+StartPos=6118
+Length=157
+Lyric=t aa1
+Note=52
+[#0040]
+StartPos=6275
+Length=82
+Lyric=aa p
+Note=52
+[#0041]
+StartPos=6357
+Length=82
+Lyric=m ay
+Note=54
+[#0042]
+StartPos=6439
+Length=37
+Lyric=ay s1
+Note=54
+[#0043]
+StartPos=6476
+Length=279
+Lyric=s eh1
+Note=52
+[#0044]
+StartPos=6755
+Length=58
+Lyric=eh l
+Note=52
+[#0045]
+StartPos=6813
+Length=93
+Lyric=l f1
+Note=52
+[#0046]
+StartPos=6906
+Length=48
+Lyric=f r
+Note=52
+[#0047]
+StartPos=6954
+Length=92
+Lyric=r ah1
+Note=50
+[#0048]
+StartPos=7046
+Length=71
+Lyric=ah m
+Note=50
+[#0049]
+StartPos=7117
+Length=76
+Lyric=m f
+Note=50
+[#0050]
+StartPos=7193
+Length=202
+Lyric=f aa
+Note=52
+[#0051]
+StartPos=7395
+Length=37
+Lyric=aa l
+Note=52
+[#0052]
+StartPos=7432
+Length=180
+Lyric=l ih
+Note=54
+[#0053]
+StartPos=7612
+Length=63
+Lyric=ih ng1
+Note=54
+[#0054]
+StartPos=7675
+Length=63
+Lyric=ng -
+Note=54

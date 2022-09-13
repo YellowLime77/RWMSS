@@ -1,0 +1,411 @@
+Tempo=137
+[#0001]
+StartPos=0
+Length=180
+Lyric=- su
+Note=62
+[#0002]
+StartPos=180
+Length=60
+Lyric=u p
+Note=62
+[#0003]
+StartPos=240
+Length=180
+Lyric=pa
+Note=62
+[#0004]
+StartPos=420
+Length=60
+Lyric=a ai
+Note=62
+[#0005]
+StartPos=480
+Length=180
+Lyric=ai
+Note=63
+[#0006]
+StartPos=660
+Length=60
+Lyric=ai d
+Note=63
+[#0007]
+StartPos=720
+Length=180
+Lyric=dou
+Note=62
+[#0008]
+StartPos=900
+Length=60
+Lyric=ou d
+Note=62
+[#0009]
+StartPos=960
+Length=180
+Lyric=de
+Note=60
+[#0010]
+StartPos=1140
+Length=60
+Lyric=e sh
+Note=60
+[#0011]
+StartPos=1200
+Length=180
+Lyric=xiao
+Note=62
+[#0012]
+StartPos=1380
+Length=60
+Lyric=ao r
+Note=62
+[#0013]
+StartPos=1440
+Length=420
+Lyric=rong
+Note=55
+[#0014]
+StartPos=1860
+Length=60
+Lyric=ong d
+Note=55
+[#0015]
+StartPos=1920
+Length=180
+Lyric=dou
+Note=60
+[#0016]
+StartPos=2100
+Length=60
+Lyric=ou m
+Note=60
+[#0017]
+StartPos=2160
+Length=180
+Lyric=mei
+Note=58
+[#0018]
+StartPos=2340
+Length=60
+Lyric=ei n
+Note=58
+[#0019]
+StartPos=2400
+Length=420
+Lyric=ni
+Note=55
+[#0020]
+StartPos=2820
+Length=60
+Lyric=i d
+Note=55
+[#0021]
+StartPos=2880
+Length=420
+Lyric=de
+Note=58
+[#0022]
+StartPos=3300
+Length=60
+Lyric=e t
+Note=58
+[#0023]
+StartPos=3360
+Length=420
+Lyric=tian
+Note=60
+[#0024]
+StartPos=3780
+Length=60
+Lyric=an b
+Note=60
+[#0025]
+StartPos=3840
+Length=180
+Lyric=ba
+Note=60
+[#0026]
+StartPos=4020
+Length=60
+Lyric=a v
+Note=60
+[#0027]
+StartPos=4080
+Length=180
+Lyric=yue
+Note=60
+[#0028]
+StartPos=4260
+Length=60
+Lyric=e0 zh
+Note=60
+[#0029]
+StartPos=4320
+Length=180
+Lyric=zheng
+Note=62
+[#0030]
+StartPos=4500
+Length=60
+Lyric=eng w
+Note=62
+[#0031]
+StartPos=4560
+Length=180
+Lyric=wu
+Note=60
+[#0032]
+StartPos=4740
+Length=60
+Lyric=u d
+Note=60
+[#0033]
+StartPos=4800
+Length=180
+Lyric=de
+Note=58
+[#0034]
+StartPos=4980
+Length=60
+Lyric=e y
+Note=58
+[#0035]
+StartPos=5040
+Length=180
+Lyric=yang
+Note=60
+[#0036]
+StartPos=5220
+Length=60
+Lyric=ang g
+Note=60
+[#0037]
+StartPos=5280
+Length=420
+Lyric=guang
+Note=62
+[#0038]
+StartPos=5700
+Length=60
+Lyric=ang d
+Note=62
+[#0039]
+StartPos=5760
+Length=180
+Lyric=dou
+Note=58
+[#0040]
+StartPos=5940
+Length=60
+Lyric=ou m
+Note=58
+[#0041]
+StartPos=6000
+Length=180
+Lyric=mei
+Note=55
+[#0042]
+StartPos=6180
+Length=60
+Lyric=ei n
+Note=55
+[#0043]
+StartPos=6240
+Length=420
+Lyric=ni
+Note=58
+[#0044]
+StartPos=6660
+Length=60
+Lyric=i y
+Note=58
+[#0045]
+StartPos=6720
+Length=420
+Lyric=yao
+Note=58
+[#0046]
+StartPos=7140
+Length=60
+Lyric=ao y
+Note=58
+[#0047]
+StartPos=7200
+Length=420
+Lyric=yan
+Note=55
+[#0048]
+StartPos=7620
+Length=60
+Lyric=an r
+Note=55
+[#0049]
+StartPos=7680
+Length=180
+Lyric=re
+Note=62
+[#0050]
+StartPos=7860
+Length=60
+Lyric=e ai
+Note=62
+[#0051]
+StartPos=7920
+Length=180
+Lyric=ai
+Note=62
+[#0052]
+StartPos=8100
+Length=60
+Lyric=ai y
+Note=62
+[#0053]
+StartPos=8160
+Length=180
+Lyric=yi
+Note=63
+[#0054]
+StartPos=8340
+Length=60
+Lyric=i b
+Note=63
+[#0055]
+StartPos=8400
+Length=180
+Lyric=bai
+Note=62
+[#0056]
+StartPos=8580
+Length=60
+Lyric=ai l
+Note=62
+[#0057]
+StartPos=8640
+Length=180
+Lyric=ling
+Note=60
+[#0058]
+StartPos=8820
+Length=60
+Lyric=ing w
+Note=60
+[#0059]
+StartPos=8880
+Length=180
+Lyric=wu
+Note=58
+[#0060]
+StartPos=9060
+Length=60
+Lyric=u d
+Note=58
+[#0061]
+StartPos=9120
+Length=660
+Lyric=du
+Note=62
+[#0062]
+StartPos=9780
+Length=60
+Lyric=u d
+Note=62
+[#0063]
+StartPos=9840
+Length=180
+Lyric=de
+Note=62
+[#0064]
+StartPos=10020
+Length=60
+Lyric=e n
+Note=62
+[#0065]
+StartPos=10080
+Length=420
+Lyric=ni
+Note=55
+[#0066]
+StartPos=10500
+Length=60
+Lyric=i d
+Note=55
+[#0067]
+StartPos=10560
+Length=180
+Lyric=di
+Note=55
+[#0068]
+StartPos=10740
+Length=60
+Lyric=i d
+Note=55
+[#0069]
+StartPos=10800
+Length=180
+Lyric=di
+Note=58
+[#0070]
+StartPos=10980
+Length=60
+Lyric=i ch
+Note=58
+[#0071]
+StartPos=11040
+Length=420
+Lyric=qing
+Note=57
+[#0072]
+StartPos=11460
+Length=60
+Lyric=ing ch
+Note=57
+[#0073]
+StartPos=11520
+Length=180
+Lyric=chun
+Note=57
+[#0074]
+StartPos=11700
+Length=60
+Lyric=en d
+Note=57
+[#0075]
+StartPos=11760
+Length=180
+Lyric=de
+Note=57
+[#0076]
+StartPos=11940
+Length=60
+Lyric=e zh
+Note=57
+[#0077]
+StartPos=12000
+Length=420
+Lyric=zheng
+Note=62
+[#0078]
+StartPos=12420
+Length=60
+Lyric=eng l
+Note=62
+[#0079]
+StartPos=12480
+Length=420
+Lyric=liu
+Note=62
+[#0080]
+StartPos=12900
+Length=60
+Lyric=u sh
+Note=62
+[#0081]
+StartPos=12960
+Length=1680
+Lyric=shui
+Note=58
+[#0082]
+StartPos=14640
+Length=240
+Lyric=ei R
+Note=58
